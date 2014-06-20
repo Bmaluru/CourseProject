@@ -10,11 +10,11 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 This repository includes the following files:
 =========================================
 1. 'run_analysis.R':
-This file contains the R code, or script, that I used to perform my analysis.   The output of this code, 'tidyData.txt', is the summary data referred to above.
+This file contains the R code, or script, that I used to perform my analysis.   The output of this code, 'tidyData.txt', is the summary data referred to above. A description of how the R code works is provided below as well as within comments embedded with the code.
 
 
 2. 'CodeBook.md':
-This file briefly describes the HARSD.  It then goes on to explain the variables I have selected from the HARDS, the transformations I have performed on those variables and the resulting data, i.e., the tidyData.txt file.  In addition, I explain why the summary data can indeed be considered "tidy", provide a data dictionary of the variables in the summary data, and last but not least, I explain how the R code works.
+This file briefly describes the HARSD.  It then goes on to explain the variables I have selected from the HARDS, the transformations I have performed on those variables in order to arrive at the summary data, i.e., the tidyData.txt file.  In addition, I explain why the summary data can indeed be considered "tidy" and explain how to read the variables in the summary data, including a data dictionary.
 
 
 How the R code, or Script, Works
