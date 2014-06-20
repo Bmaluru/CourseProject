@@ -14,7 +14,7 @@ This file contains the R code, or script, that I used to perform my analysis.   
 
 
 2. 'CodeBook.md':
-This file briefly describes the HARSD.  It then goes on to explain the variables I have selected from the HARDS, the transformations I have performed on those variables in order to arrive at the summary data, i.e., the tidyData.txt file.  In addition, I explain why the summary data can indeed be considered "tidy" and explain how to read the variables in the summary data, including a data dictionary.
+This file briefly describes the HARSD.  It then goes on to explain the variables I have selected from the HARDS and the transformations I have performed on those variables in order to arrive at the summary data, i.e., the tidyData.txt file.  In addition, I explain why the summary data can indeed be considered "tidy" and explain how to read the variables in the summary data, including a data dictionary.
 
 
 How the R code, or Script, Works
